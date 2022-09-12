@@ -1,0 +1,13 @@
+.first_b, .second_b {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.first_b {
+    color: white;
+    background-color: black;
+}
+
+.second_b {
+    background-color: yellow;
+}
