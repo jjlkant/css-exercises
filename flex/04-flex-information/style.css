@@ -11,12 +11,12 @@ img {
   font-size: 36px;
   font-weight: 900;
   text-align: center;
+  margin-bottom: 32px;
 }
 
 .plants {
   display: flex;
   justify-content: space-around;
-  margin: 30px;
 }
 
 .barberry, .chili, .pepper, .saffron {
