@@ -17,6 +17,12 @@ body {
   padding: 8px;
 }
 
+.header_left {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
 .profile-image {
   background: rebeccapurple;
   box-shadow: inset 2px 2px 4px rgba(0,0,0,.5);
@@ -48,4 +54,8 @@ a {
 
 ul {
   list-style-type: none;
+  display: flex;
+  gap: 16px;
+  margin: 0px;
+  padding: 0px;
 }
