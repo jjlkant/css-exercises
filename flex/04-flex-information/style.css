@@ -16,14 +16,11 @@ img {
 
 .plants {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   gap: 52px
 }
 
-.barberry, .chili, .pepper, .saffron {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.plant_info {
   text-align: center;
   max-width: 200px;
 }
